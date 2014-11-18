@@ -1,0 +1,15 @@
+html { 
+  background: url(../images/fruit.jpg) no-repeat center center fixed; 
+  -webkit-background-size: cover;
+  -moz-background-size: cover;
+  -o-background-size: cover;
+  background-size: cover;
+}
+
+h1 {
+  font-family:'Fredoka One', cursive;
+  font-size: 60px;
+  color: #FFC2E0;
+  text-align: center;
+  margin: 60px 0 0 0;
+}

@@ -1,0 +1,28 @@
+.taco_container {
+    width: 100%;
+}
+.taco {
+    width: 33%;
+    display: inline-block;
+    text-align: center;
+}
+
+.text_container {
+  font-family: 'Abril Fatface', cursive;
+}
+
+h1 {
+  font-family: 'Abril Fatface', cursive;
+  font-size: 80px;
+  margin: 10px 0 0 0;
+}
+
+h2 {
+  font-family: 'Abril Fatface', cursive;
+  font-size: 30px;
+}
+
+h3 {
+  font-family: 'Abril Fatface', cursive;
+  font-size: 20px;
+}

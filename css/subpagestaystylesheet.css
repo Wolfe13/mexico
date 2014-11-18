@@ -1,0 +1,27 @@
+html { 
+  background: url(../images/stay.jpg) no-repeat center center fixed; 
+  -webkit-background-size: cover;
+  -moz-background-size: cover;
+  -o-background-size: cover;
+  background-size: cover;
+}
+
+a:link {
+    text-decoration: none;
+}
+
+
+h1 {
+  font-family: 'Pacifico', cursive;
+  font-size: 60px;
+  color: #94FFFF;
+  text-align: center;
+  margin: 60px 0 0 0;
+}
+p {
+  font-family: 'Pacifico', cursive;
+  font-size: 30px;
+  color: #94FFFF;
+  text-align: center;
+  margin: 60px 0px 30px 0;
+}

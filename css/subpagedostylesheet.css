@@ -1,0 +1,30 @@
+html { 
+  background: url(../images/plantains.jpg) no-repeat center center fixed; 
+  -webkit-background-size: cover;
+  -moz-background-size: cover;
+  -o-background-size: cover;
+  background-size: cover;
+}
+
+h1 {
+  font-family:'Fredoka One', cursive;
+  font-size: 60px;
+  color: #FFC2E0;
+  text-align: center;
+  margin: 60px 0 0 0;
+}
+
+.do_container {
+    width: 100%;
+}
+.do1 {
+    width: 33%;
+    display: inline-block;
+    text-align: center;
+}
+.do2 {
+    width: 33%;
+    display: inline-block;
+    text-align: center;
+}
+

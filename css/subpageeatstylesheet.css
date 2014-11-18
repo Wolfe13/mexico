@@ -1,0 +1,40 @@
+h1 {
+  font-size:100px;
+  font-family: 'Amatic SC', cursive;
+  text-align: center;
+  margin: 10px 0 0 0;
+}
+
+.eat_container {
+    width: 100%;
+}
+.eat1 {
+    width: 33%;
+    display: inline-block;
+    text-align: center;
+}
+.eat2 {
+    width: 33%;
+    display: inline-block;
+    text-align: center;
+}
+.eat3 {
+    width: 33%;
+    display: inline-block;
+    text-align: center;
+}
+.eat4 {
+    width: 33%;
+    display: inline-block;
+    text-align: center;
+}
+.eat5 {
+    width: 33%;
+    display: inline-block;
+    text-align: center;
+}
+.eat6 {
+    width: 33%;
+    display: inline-block;
+    text-align: center;
+}

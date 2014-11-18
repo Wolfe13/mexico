@@ -1,0 +1,16 @@
+body {
+  font-family: 'Old Standard TT', serif;
+  background-color: #FFC2EB;
+}
+
+h1 {
+  font-size: 50px;
+   margin: 15px 0 0 0;
+   text-align: center;
+}
+
+h2 {
+  font-size:30px;
+   margin: 8px 15px 0 0;
+   text-align: center;
+}
